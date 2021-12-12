@@ -1,0 +1,71 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+
+.centrare{
+
+}
+.container{
+  width:75%;
+ background-color:rgba(0,0,0,0.55);
+ vertical-align:middle;
+ text-align:center;
+ margin: auto;
+ padding: 50px;
+ border-radius: 25px;
+}
+
+.container-logo{
+  width: 300px;
+  margin: auto;
+
+}
+
+
+.container-input{
+  background-color: green;
+  padding: 5px;
+  border-color: green;
+}
+
+#LOGO{
+  width: 200px;
+}
+.slogan{
+  font-size: 30px;
+  color: green;
+}
+
+.mono1{
+ font-size: 30px;
+ color:white;
+ text-align:left;
+}
+.mono1-1{
+  color: white;
+  text-align: left;
+}
+
+.barra1{
+  background-color: orange;
+  color:orange;
+  width: 35%;
+  padding: 2px;
+  border-radius: 3px;
+}
+.barra2{
+  background-color: green;
+  color:green;
+  width: 65%;
+  padding: 2px;
+  border-radius: 3px;
+}
+
+.barra3{
+  background-color: red;
+  color:red;
+  width: 15%;
+  padding: 2px;
+  border-radius: 3px;
+}
